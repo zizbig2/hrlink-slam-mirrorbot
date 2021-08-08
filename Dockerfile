@@ -1,4 +1,4 @@
-FROM omkar47/normalsdk:latest
+FROM omkar47/slam-mirror-bot:latest
 
 WORKDIR /app/
 
