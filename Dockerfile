@@ -1,6 +1,6 @@
 FROM omkar47/slam-mirror-bot:latest
 
-WORKDIR /app/
+WORKDIR /usr/src/app
 
 COPY . .
 
